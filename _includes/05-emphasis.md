@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My Skills
+- Programming languages: 
+  - **_Python_**
+  - _JavaScript_
+  - C#
+  - C/C++
+  - Java
+  
+ **"Talk is cheap- show me the code."** - _Linus Torvalds, founder of Linux._
+ **[GitHub](https://github.com/janhavi-sathe)**
